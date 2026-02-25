@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ✨Hi there, I'm Kujtim, a passionate IT guy that loves exploring the world of technology and programming.
-🌱 Currently I'm doing some freeCodeCamp courses on Web Development.
-📫 Reach me on 𝕏/LinkedIn/ @kujtimgc
+🌱 Currently I'm doing freeCodeCamp courses on Web Development.
+📫 Reach me on 𝕏/LinkedIn/Behance @kujtimgc
